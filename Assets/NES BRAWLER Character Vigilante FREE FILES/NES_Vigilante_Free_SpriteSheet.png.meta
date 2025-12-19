@@ -1,0 +1,4849 @@
+fileFormatVersion: 2
+guid: 9ced7715b02311244934e3dd3611a718
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1247310617373385835
+    second: NES_Vigilante_Free_SpriteSheet_0
+  - first:
+      213: -355277156488957831
+    second: NES_Vigilante_Free_SpriteSheet_1
+  - first:
+      213: -991728026759556800
+    second: NES_Vigilante_Free_SpriteSheet_2
+  - first:
+      213: -7516675695245371652
+    second: NES_Vigilante_Free_SpriteSheet_3
+  - first:
+      213: 1998280094268191104
+    second: NES_Vigilante_Free_SpriteSheet_4
+  - first:
+      213: -7906886679041419080
+    second: NES_Vigilante_Free_SpriteSheet_5
+  - first:
+      213: 2867555537768910167
+    second: NES_Vigilante_Free_SpriteSheet_6
+  - first:
+      213: -3554386710124891668
+    second: NES_Vigilante_Free_SpriteSheet_7
+  - first:
+      213: 537066562136624544
+    second: NES_Vigilante_Free_SpriteSheet_8
+  - first:
+      213: 7117238228790716192
+    second: NES_Vigilante_Free_SpriteSheet_9
+  - first:
+      213: 6833577097337938877
+    second: NES_Vigilante_Free_SpriteSheet_10
+  - first:
+      213: 7028651360658700537
+    second: NES_Vigilante_Free_SpriteSheet_11
+  - first:
+      213: 2951793965407601418
+    second: NES_Vigilante_Free_SpriteSheet_12
+  - first:
+      213: 8477557608696385464
+    second: NES_Vigilante_Free_SpriteSheet_13
+  - first:
+      213: 5975714428979287477
+    second: NES_Vigilante_Free_SpriteSheet_14
+  - first:
+      213: 4902461765881921509
+    second: NES_Vigilante_Free_SpriteSheet_15
+  - first:
+      213: -5003213710212383886
+    second: NES_Vigilante_Free_SpriteSheet_16
+  - first:
+      213: -261960092905309137
+    second: NES_Vigilante_Free_SpriteSheet_17
+  - first:
+      213: 7318335385700695861
+    second: NES_Vigilante_Free_SpriteSheet_18
+  - first:
+      213: 9173036820265914528
+    second: NES_Vigilante_Free_SpriteSheet_19
+  - first:
+      213: 43348738992499171
+    second: NES_Vigilante_Free_SpriteSheet_20
+  - first:
+      213: -7030469631224259371
+    second: NES_Vigilante_Free_SpriteSheet_21
+  - first:
+      213: 354846929972121169
+    second: NES_Vigilante_Free_SpriteSheet_22
+  - first:
+      213: 2259204400973277458
+    second: NES_Vigilante_Free_SpriteSheet_23
+  - first:
+      213: 5163439870723598647
+    second: NES_Vigilante_Free_SpriteSheet_24
+  - first:
+      213: 7785717463977847057
+    second: NES_Vigilante_Free_SpriteSheet_25
+  - first:
+      213: 8937015278092798929
+    second: NES_Vigilante_Free_SpriteSheet_26
+  - first:
+      213: 223826544041034721
+    second: NES_Vigilante_Free_SpriteSheet_27
+  - first:
+      213: 5950873366547653007
+    second: NES_Vigilante_Free_SpriteSheet_28
+  - first:
+      213: -7610051942024208320
+    second: NES_Vigilante_Free_SpriteSheet_29
+  - first:
+      213: 1483194972548002638
+    second: NES_Vigilante_Free_SpriteSheet_30
+  - first:
+      213: -6566013808497737379
+    second: NES_Vigilante_Free_SpriteSheet_31
+  - first:
+      213: -6584282657539806677
+    second: NES_Vigilante_Free_SpriteSheet_32
+  - first:
+      213: 3284177584923413648
+    second: NES_Vigilante_Free_SpriteSheet_33
+  - first:
+      213: -5030487743088879566
+    second: NES_Vigilante_Free_SpriteSheet_34
+  - first:
+      213: -6900017200665146257
+    second: NES_Vigilante_Free_SpriteSheet_35
+  - first:
+      213: 8578492838673071073
+    second: NES_Vigilante_Free_SpriteSheet_36
+  - first:
+      213: -90812314646743894
+    second: NES_Vigilante_Free_SpriteSheet_37
+  - first:
+      213: -4685610277351458366
+    second: NES_Vigilante_Free_SpriteSheet_38
+  - first:
+      213: 5885695227681117822
+    second: NES_Vigilante_Free_SpriteSheet_39
+  - first:
+      213: 254207553365202743
+    second: NES_Vigilante_Free_SpriteSheet_40
+  - first:
+      213: 2403271124390420640
+    second: NES_Vigilante_Free_SpriteSheet_41
+  - first:
+      213: 3998789154227446926
+    second: NES_Vigilante_Free_SpriteSheet_42
+  - first:
+      213: -1548912519780124220
+    second: NES_Vigilante_Free_SpriteSheet_43
+  - first:
+      213: 3035115517066187437
+    second: NES_Vigilante_Free_SpriteSheet_44
+  - first:
+      213: -7265023190219196097
+    second: NES_Vigilante_Free_SpriteSheet_45
+  - first:
+      213: -312932869369704188
+    second: NES_Vigilante_Free_SpriteSheet_46
+  - first:
+      213: -2063870103637101889
+    second: NES_Vigilante_Free_SpriteSheet_47
+  - first:
+      213: 1005930347184233194
+    second: NES_Vigilante_Free_SpriteSheet_48
+  - first:
+      213: -3257425020257347952
+    second: NES_Vigilante_Free_SpriteSheet_49
+  - first:
+      213: 4658708866429046044
+    second: NES_Vigilante_Free_SpriteSheet_50
+  - first:
+      213: -4729741787020848114
+    second: NES_Vigilante_Free_SpriteSheet_51
+  - first:
+      213: 1291161304134789248
+    second: NES_Vigilante_Free_SpriteSheet_52
+  - first:
+      213: 3373537056165197627
+    second: NES_Vigilante_Free_SpriteSheet_53
+  - first:
+      213: 353413659797200692
+    second: NES_Vigilante_Free_SpriteSheet_54
+  - first:
+      213: -4275450374505891776
+    second: NES_Vigilante_Free_SpriteSheet_55
+  - first:
+      213: -6319638694462088135
+    second: NES_Vigilante_Free_SpriteSheet_56
+  - first:
+      213: 4092160804708874361
+    second: NES_Vigilante_Free_SpriteSheet_57
+  - first:
+      213: -2726542293794618878
+    second: NES_Vigilante_Free_SpriteSheet_58
+  - first:
+      213: 6477904958937721739
+    second: NES_Vigilante_Free_SpriteSheet_59
+  - first:
+      213: 7205688135871224593
+    second: NES_Vigilante_Free_SpriteSheet_60
+  - first:
+      213: 5667538996480000470
+    second: NES_Vigilante_Free_SpriteSheet_61
+  - first:
+      213: 1842633813327543213
+    second: NES_Vigilante_Free_SpriteSheet_62
+  - first:
+      213: 1165550187276045030
+    second: NES_Vigilante_Free_SpriteSheet_63
+  - first:
+      213: 694000010946770733
+    second: NES_Vigilante_Free_SpriteSheet_64
+  - first:
+      213: 7667235962601596081
+    second: NES_Vigilante_Free_SpriteSheet_65
+  - first:
+      213: -6296354185615324727
+    second: NES_Vigilante_Free_SpriteSheet_66
+  - first:
+      213: 1469542548919917943
+    second: NES_Vigilante_Free_SpriteSheet_67
+  - first:
+      213: 1563868287683327089
+    second: NES_Vigilante_Free_SpriteSheet_68
+  - first:
+      213: 6083047172454598387
+    second: NES_Vigilante_Free_SpriteSheet_69
+  - first:
+      213: -8601226537590560369
+    second: NES_Vigilante_Free_SpriteSheet_70
+  - first:
+      213: 2447910794850381044
+    second: NES_Vigilante_Free_SpriteSheet_71
+  - first:
+      213: -6478929459207548193
+    second: NES_Vigilante_Free_SpriteSheet_72
+  - first:
+      213: -8488101811338082756
+    second: NES_Vigilante_Free_SpriteSheet_73
+  - first:
+      213: -1878896233044325112
+    second: NES_Vigilante_Free_SpriteSheet_74
+  - first:
+      213: 1517425917560790938
+    second: NES_Vigilante_Free_SpriteSheet_75
+  - first:
+      213: -7429324488626733077
+    second: NES_Vigilante_Free_SpriteSheet_76
+  - first:
+      213: 254577785215315264
+    second: NES_Vigilante_Free_SpriteSheet_77
+  - first:
+      213: -3308592460987061012
+    second: NES_Vigilante_Free_SpriteSheet_78
+  - first:
+      213: -8211325676212976828
+    second: NES_Vigilante_Free_SpriteSheet_79
+  - first:
+      213: 9085648053071168456
+    second: NES_Vigilante_Free_SpriteSheet_80
+  - first:
+      213: -5102451030282064956
+    second: NES_Vigilante_Free_SpriteSheet_81
+  - first:
+      213: 2586344569767589580
+    second: NES_Vigilante_Free_SpriteSheet_82
+  - first:
+      213: 331051927914705421
+    second: NES_Vigilante_Free_SpriteSheet_83
+  - first:
+      213: 5255800250732589464
+    second: NES_Vigilante_Free_SpriteSheet_84
+  - first:
+      213: -4624602615740846758
+    second: NES_Vigilante_Free_SpriteSheet_85
+  - first:
+      213: 2797571066703795602
+    second: NES_Vigilante_Free_SpriteSheet_86
+  - first:
+      213: -6084428581653703002
+    second: NES_Vigilante_Free_SpriteSheet_87
+  - first:
+      213: 3903375709537849982
+    second: NES_Vigilante_Free_SpriteSheet_88
+  - first:
+      213: 1781361393906369844
+    second: NES_Vigilante_Free_SpriteSheet_89
+  - first:
+      213: 804511555281197141
+    second: NES_Vigilante_Free_SpriteSheet_90
+  - first:
+      213: 1855741236764641015
+    second: NES_Vigilante_Free_SpriteSheet_91
+  - first:
+      213: -7488718189800813463
+    second: NES_Vigilante_Free_SpriteSheet_92
+  - first:
+      213: -8412617593436102888
+    second: NES_Vigilante_Free_SpriteSheet_93
+  - first:
+      213: -3781123987274302651
+    second: NES_Vigilante_Free_SpriteSheet_94
+  - first:
+      213: 242846524905352344
+    second: NES_Vigilante_Free_SpriteSheet_95
+  - first:
+      213: 5307581003038270307
+    second: NES_Vigilante_Free_SpriteSheet_96
+  - first:
+      213: -4191544965094436017
+    second: NES_Vigilante_Free_SpriteSheet_97
+  - first:
+      213: -3144107446448658120
+    second: NES_Vigilante_Free_SpriteSheet_98
+  - first:
+      213: -5043291230556367559
+    second: NES_Vigilante_Free_SpriteSheet_99
+  - first:
+      213: -4682172991619980024
+    second: NES_Vigilante_Free_SpriteSheet_100
+  - first:
+      213: -4955619369694658149
+    second: NES_Vigilante_Free_SpriteSheet_101
+  - first:
+      213: 4174651960020100617
+    second: NES_Vigilante_Free_SpriteSheet_102
+  - first:
+      213: -2726409968196905134
+    second: NES_Vigilante_Free_SpriteSheet_103
+  - first:
+      213: 9215924511938981926
+    second: NES_Vigilante_Free_SpriteSheet_104
+  - first:
+      213: -2003025648854768655
+    second: NES_Vigilante_Free_SpriteSheet_105
+  - first:
+      213: 9061311369137689195
+    second: NES_Vigilante_Free_SpriteSheet_106
+  - first:
+      213: 3407705944248867151
+    second: NES_Vigilante_Free_SpriteSheet_107
+  - first:
+      213: -8113032579055190504
+    second: NES_Vigilante_Free_SpriteSheet_108
+  - first:
+      213: -6393776183598909702
+    second: NES_Vigilante_Free_SpriteSheet_109
+  - first:
+      213: -3884453096014779963
+    second: NES_Vigilante_Free_SpriteSheet_110
+  - first:
+      213: -1753836509743552795
+    second: NES_Vigilante_Free_SpriteSheet_111
+  - first:
+      213: 6471708824498584364
+    second: NES_Vigilante_Free_SpriteSheet_112
+  - first:
+      213: 7140134579754591076
+    second: NES_Vigilante_Free_SpriteSheet_113
+  - first:
+      213: -7757525730418525951
+    second: NES_Vigilante_Free_SpriteSheet_114
+  - first:
+      213: -5574877954863172171
+    second: NES_Vigilante_Free_SpriteSheet_115
+  - first:
+      213: -5882270817805573576
+    second: NES_Vigilante_Free_SpriteSheet_116
+  - first:
+      213: -1335422508273681113
+    second: NES_Vigilante_Free_SpriteSheet_117
+  - first:
+      213: -8816483572323748033
+    second: NES_Vigilante_Free_SpriteSheet_118
+  - first:
+      213: -1783402020274171546
+    second: NES_Vigilante_Free_SpriteSheet_119
+  - first:
+      213: 8527392403860843134
+    second: NES_Vigilante_Free_SpriteSheet_120
+  - first:
+      213: -4652347437350771664
+    second: NES_Vigilante_Free_SpriteSheet_121
+  - first:
+      213: 4589520808351884459
+    second: NES_Vigilante_Free_SpriteSheet_122
+  - first:
+      213: 462805465660338772
+    second: NES_Vigilante_Free_SpriteSheet_123
+  - first:
+      213: -2428133962605699648
+    second: NES_Vigilante_Free_SpriteSheet_124
+  - first:
+      213: 3016615899160068023
+    second: NES_Vigilante_Free_SpriteSheet_125
+  - first:
+      213: -3348412784586969137
+    second: NES_Vigilante_Free_SpriteSheet_126
+  - first:
+      213: 5191206338993641777
+    second: NES_Vigilante_Free_SpriteSheet_127
+  - first:
+      213: -2039994247378293789
+    second: NES_Vigilante_Free_SpriteSheet_128
+  - first:
+      213: -1208633891445259071
+    second: NES_Vigilante_Free_SpriteSheet_129
+  - first:
+      213: 7757962563431885818
+    second: NES_Vigilante_Free_SpriteSheet_130
+  - first:
+      213: 6501673344667085168
+    second: NES_Vigilante_Free_SpriteSheet_131
+  - first:
+      213: 8629443805783306996
+    second: NES_Vigilante_Free_SpriteSheet_132
+  - first:
+      213: 4211913299728650681
+    second: NES_Vigilante_Free_SpriteSheet_133
+  - first:
+      213: 4743303348193112949
+    second: NES_Vigilante_Free_SpriteSheet_134
+  - first:
+      213: -2995506148268906778
+    second: NES_Vigilante_Free_SpriteSheet_135
+  - first:
+      213: -6549274552006835006
+    second: NES_Vigilante_Free_SpriteSheet_136
+  - first:
+      213: 7612629142773667086
+    second: NES_Vigilante_Free_SpriteSheet_137
+  - first:
+      213: 2987427754193787754
+    second: NES_Vigilante_Free_SpriteSheet_138
+  - first:
+      213: 3757414167177835303
+    second: NES_Vigilante_Free_SpriteSheet_139
+  - first:
+      213: -5716062010122298109
+    second: NES_Vigilante_Free_SpriteSheet_140
+  - first:
+      213: -3182192486831117378
+    second: NES_Vigilante_Free_SpriteSheet_141
+  - first:
+      213: 6584357943608873110
+    second: NES_Vigilante_Free_SpriteSheet_142
+  - first:
+      213: 2011675620571900599
+    second: NES_Vigilante_Free_SpriteSheet_143
+  - first:
+      213: -9066063369157842765
+    second: NES_Vigilante_Free_SpriteSheet_144
+  - first:
+      213: 8480570622333328108
+    second: NES_Vigilante_Free_SpriteSheet_145
+  - first:
+      213: 7010587713993082956
+    second: NES_Vigilante_Free_SpriteSheet_146
+  - first:
+      213: -75592263062626853
+    second: NES_Vigilante_Free_SpriteSheet_147
+  - first:
+      213: -8999981424160266013
+    second: NES_Vigilante_Free_SpriteSheet_148
+  - first:
+      213: 5428400387673441103
+    second: NES_Vigilante_Free_SpriteSheet_149
+  - first:
+      213: -5888204487686318799
+    second: NES_Vigilante_Free_SpriteSheet_150
+  - first:
+      213: 3918582274515131359
+    second: NES_Vigilante_Free_SpriteSheet_151
+  - first:
+      213: -4091777903451101795
+    second: NES_Vigilante_Free_SpriteSheet_152
+  - first:
+      213: 6803976296146436301
+    second: NES_Vigilante_Free_SpriteSheet_153
+  - first:
+      213: -6966294779748607000
+    second: NES_Vigilante_Free_SpriteSheet_154
+  - first:
+      213: 6626283365436736605
+    second: NES_Vigilante_Free_SpriteSheet_155
+  - first:
+      213: 5017111165572632424
+    second: NES_Vigilante_Free_SpriteSheet_156
+  - first:
+      213: -8192142532685833634
+    second: NES_Vigilante_Free_SpriteSheet_157
+  - first:
+      213: -7009466432735652009
+    second: NES_Vigilante_Free_SpriteSheet_158
+  - first:
+      213: -6320326620408620702
+    second: NES_Vigilante_Free_SpriteSheet_159
+  - first:
+      213: -8125243574039085933
+    second: NES_Vigilante_Free_SpriteSheet_160
+  - first:
+      213: -6725403270259557694
+    second: NES_Vigilante_Free_SpriteSheet_161
+  - first:
+      213: -7350172199214498027
+    second: NES_Vigilante_Free_SpriteSheet_162
+  - first:
+      213: 3203168586580588207
+    second: NES_Vigilante_Free_SpriteSheet_163
+  - first:
+      213: 6160778509114590524
+    second: NES_Vigilante_Free_SpriteSheet_164
+  - first:
+      213: -7144357654412365424
+    second: NES_Vigilante_Free_SpriteSheet_165
+  - first:
+      213: -1287985151016315429
+    second: NES_Vigilante_Free_SpriteSheet_166
+  - first:
+      213: 948952901748462726
+    second: NES_Vigilante_Free_SpriteSheet_167
+  - first:
+      213: 7882480435678207505
+    second: NES_Vigilante_Free_SpriteSheet_168
+  - first:
+      213: -836414635114290961
+    second: NES_Vigilante_Free_SpriteSheet_169
+  - first:
+      213: -8990035009405431079
+    second: NES_Vigilante_Free_SpriteSheet_170
+  - first:
+      213: 4479968979325687915
+    second: NES_Vigilante_Free_SpriteSheet_171
+  - first:
+      213: 9187040470159178554
+    second: NES_Vigilante_Free_SpriteSheet_172
+  - first:
+      213: -6171964019369581260
+    second: NES_Vigilante_Free_SpriteSheet_173
+  - first:
+      213: 5121897341950958937
+    second: NES_Vigilante_Free_SpriteSheet_174
+  - first:
+      213: -3621227810064641122
+    second: NES_Vigilante_Free_SpriteSheet_175
+  - first:
+      213: -7942246093776835165
+    second: NES_Vigilante_Free_SpriteSheet_176
+  - first:
+      213: 14210531486567521
+    second: NES_Vigilante_Free_SpriteSheet_177
+  - first:
+      213: 1442618394559141911
+    second: NES_Vigilante_Free_SpriteSheet_178
+  - first:
+      213: 7808818972484767718
+    second: NES_Vigilante_Free_SpriteSheet_179
+  - first:
+      213: -1206203680463955748
+    second: NES_Vigilante_Free_SpriteSheet_180
+  - first:
+      213: -8107822569409773232
+    second: NES_Vigilante_Free_SpriteSheet_181
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 181
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b642d11e5665f4110800000000000000
+      internalID: 1247310617373385835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 160
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9703aaafe4dc11bf0800000000000000
+      internalID: -355277156488957831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 160
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04192333d9cac32f0800000000000000
+      internalID: -991728026759556800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 160
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6561db7476fa790800000000000000
+      internalID: -7516675695245371652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 160
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081f69c88215bbb10800000000000000
+      internalID: 1998280094268191104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 184
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8d7783578154290800000000000000
+      internalID: -7906886679041419080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 178
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d8b62919a9bc720800000000000000
+      internalID: 2867555537768910167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 161
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1f2ac7e184caec0800000000000000
+      internalID: -3554386710124891668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 160
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0adc4e8513b047700800000000000000
+      internalID: 537066562136624544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 160
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027a6e8d57285c260800000000000000
+      internalID: 7117238228790716192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 160
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3a2180a2eb5de50800000000000000
+      internalID: 6833577097337938877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 184
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8b0225c29ca8160800000000000000
+      internalID: 7028651360658700537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 174
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a030346e8f0e6f820800000000000000
+      internalID: 2951793965407601418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 181
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf0245aab556a570800000000000000
+      internalID: 8477557608696385464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 160
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b59c7acc900ee250800000000000000
+      internalID: 5975714428979287477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef7350700b090440800000000000000
+      internalID: 4902461765881921509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 167
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b3d6383a3019ab0800000000000000
+      internalID: -5003213710212383886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2cfc05fea45d5cf0800000000000000
+      internalID: -261960092905309137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 23
+        width: 90
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f7cd35243ff8560800000000000000
+      internalID: 7318335385700695861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 175
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0578f136c2d4f70800000000000000
+      internalID: 9173036820265914528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 164
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9eb1dc2710a9000800000000000000
+      internalID: 43348738992499171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 170
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dcd4b29e11ce6e90800000000000000
+      internalID: -7030469631224259371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 174
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e40aa176bace400800000000000000
+      internalID: 354846929972121169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 160
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219e203de6e4a5f10800000000000000
+      internalID: 2259204400973277458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 161
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739a191943938a740800000000000000
+      internalID: 5163439870723598647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 166
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11964f178cc6c0c60800000000000000
+      internalID: 7785717463977847057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 149
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbc5fa8b08a60c70800000000000000
+      internalID: 8937015278092798929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e38ed05e013b1300800000000000000
+      internalID: 223826544041034721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81e76c3ccfb59250800000000000000
+      internalID: 5950873366547653007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0402069141aa36690800000000000000
+      internalID: -7610051942024208320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e437e5f18fd559410800000000000000
+      internalID: 1483194972548002638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 152
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51ce2aba35d0e4a0800000000000000
+      internalID: -6566013808497737379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 146
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a2398decdef94a0800000000000000
+      internalID: -6584282657539806677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 128
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c09a8fc1eb39d20800000000000000
+      internalID: 3284177584923413648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 129
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2381b32ec0e103ab0800000000000000
+      internalID: -5030487743088879566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 128
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6cc442f9e63e30a0800000000000000
+      internalID: -6900017200665146257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 128
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb375539cdec0770800000000000000
+      internalID: 8578492838673071073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 150
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4ff345eae5dbef0800000000000000
+      internalID: -90812314646743894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 143
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9fb86374e59feb0800000000000000
+      internalID: -4685610277351458366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 128
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76152630a03ea150800000000000000
+      internalID: 5885695227681117822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737dd854c60278300800000000000000
+      internalID: 254207553365202743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 150
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0ae34ca522a5120800000000000000
+      internalID: 2403271124390420640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 128
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84696d9c8d8e7730800000000000000
+      internalID: 3998789154227446926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 143
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9b95e0548218ae0800000000000000
+      internalID: -1548912519780124220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 132
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da291076b75ee1a20800000000000000
+      internalID: 3035115517066187437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 138
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39720676e37d2b90800000000000000
+      internalID: -7265023190219196097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 142
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401dcaa963d38abf0800000000000000
+      internalID: -312932869369704188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 137
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2792a5319ab53e0800000000000000
+      internalID: -2063870103637101889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 136
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea93b43258c5fd00800000000000000
+      internalID: 1005930347184233194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 142
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0965711e33d4bc2d0800000000000000
+      internalID: -3257425020257347952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 136
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d4777f70f07a040800000000000000
+      internalID: 4658708866429046044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 123
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e041d4967e49c5eb0800000000000000
+      internalID: -4729741787020848114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 129
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0882fa08d502be110800000000000000
+      internalID: 1291161304134789248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 129
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37f75d241631de20800000000000000
+      internalID: 3373537056165197627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 131
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f9bf2e9d397e400800000000000000
+      internalID: 353413659797200692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 120
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048f3c4698c8aa4c0800000000000000
+      internalID: -4275450374505891776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 114
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c16cb17122c48a0800000000000000
+      internalID: -6319638694462088135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 96
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978f27812964ac830800000000000000
+      internalID: 4092160804708874361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2020b49ca30692ad0800000000000000
+      internalID: -2726542293794618878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b693e1d3426e950800000000000000
+      internalID: 6477904958937721739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11bd9d4ae2fbff360800000000000000
+      internalID: 7205688135871224593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 111
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d14ddb70b427ae40800000000000000
+      internalID: 5667538996480000470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabf286c0b9529910800000000000000
+      internalID: 1842633813327543213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 96
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea8a7058bddc2010800000000000000
+      internalID: 1165550187276045030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27799e355591a900800000000000000
+      internalID: 694000010946770733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 96
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4e7f73c7e776a60800000000000000
+      internalID: 7667235962601596081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 121
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9ca5a4a3bde98a0800000000000000
+      internalID: -6296354185615324727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 115
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d91ba892dd46410800000000000000
+      internalID: 1469542548919917943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 96
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174fcd20ce9f3b510800000000000000
+      internalID: 1563868287683327089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 116
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6c91a8c235b6450800000000000000
+      internalID: 6083047172454598387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 97
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89604a090e42a880800000000000000
+      internalID: -8601226537590560369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 106
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fca6e8f5e9b8f120800000000000000
+      internalID: 2447910794850381044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 106
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2de13dbf73616a0800000000000000
+      internalID: -6478929459207548193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3608dddf54343a80800000000000000
+      internalID: -8488101811338082756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 102
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80dc293b4d1dce5e0800000000000000
+      internalID: -1878896233044325112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_75
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 109
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f9e2515dafe0510800000000000000
+      internalID: 1517425917560790938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_76
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 99
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beffa466dbcb5e890800000000000000
+      internalID: -7429324488626733077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_77
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 96
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04de6779521788300800000000000000
+      internalID: 254577785215315264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_78
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 101
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceca458bfa48512d0800000000000000
+      internalID: -3308592460987061012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_79
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 91
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443084e8dc28b0e80800000000000000
+      internalID: -8211325676212976828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_80
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 96
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3c68534c4b61e70800000000000000
+      internalID: 9085648053071168456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_81
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 88
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb263862d37039b0800000000000000
+      internalID: -5102451030282064956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_82
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 83
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6f1c3eeaa84e320800000000000000
+      internalID: 2586344569767589580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_83
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02709579f1289400800000000000000
+      internalID: 331051927914705421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_84
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891335b4b7a50f840800000000000000
+      internalID: 5255800250732589464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_85
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5dac655c6c12dfb0800000000000000
+      internalID: -4624602615740846758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2955ac02018f2d620800000000000000
+      internalID: 2797571066703795602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_87
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 79
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a61c411174cf8ba0800000000000000
+      internalID: -6084428581653703002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_88
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 64
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7254efd6839b2630800000000000000
+      internalID: 3903375709537849982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_89
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435426cefbaa8b810800000000000000
+      internalID: 1781361393906369844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_90
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 64
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5589b3e3ff23a2b00800000000000000
+      internalID: 804511555281197141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_91
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6866c92dae0c910800000000000000
+      internalID: 1855741236764641015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_92
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 89
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c8ae9bb7ab21890800000000000000
+      internalID: -7488718189800813463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_93
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 83
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f1a08eed0604b80800000000000000
+      internalID: -8412617593436102888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_94
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 64
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b7ece44cfb68bc0800000000000000
+      internalID: -3781123987274302651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_95
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 84
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89cebe3b0a3ce5300800000000000000
+      internalID: 242846524905352344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_96
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36325be2dc058a940800000000000000
+      internalID: 5307581003038270307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_97
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 78
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43187fdf04a4d5c0800000000000000
+      internalID: -4191544965094436017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_98
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 69
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83964c68fe2ed54d0800000000000000
+      internalID: -3144107446448658120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_99
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 74
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93558d7a851a20ab0800000000000000
+      internalID: -5043291230556367559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_100
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8052099a874950fb0800000000000000
+      internalID: -4682172991619980024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_101
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 77
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b910e43707a1a3bb0800000000000000
+      internalID: -4955619369694658149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_102
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 64
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906e2e1e6d75fe930800000000000000
+      internalID: 4174651960020100617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_103
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 69
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2571a8d3498d92ad0800000000000000
+      internalID: -2726409968196905134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_104
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 64
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62030faf38a85ef70800000000000000
+      internalID: 9215924511938981926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_105
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 70
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3e30ce8c2d334e0800000000000000
+      internalID: -2003025648854768655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_106
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 64
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6219ac6eae30cd70800000000000000
+      internalID: 9061311369137689195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_107
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 67
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49d0f1608a9a4f20800000000000000
+      internalID: 3407705944248867151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_108
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 51
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e7e32aad7b86f80800000000000000
+      internalID: -8113032579055190504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_109
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6fb3bcf6eb447a0800000000000000
+      internalID: -6393776183598909702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_110
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 32
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c96f596d76a71ac0800000000000000
+      internalID: -3884453096014779963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_111
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 33
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6ef929cfe19a7e0800000000000000
+      internalID: -1753836509743552795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_112
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 33
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2bbff523e020d950800000000000000
+      internalID: 6471708824498584364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_113
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 53
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46361caf19ad61360800000000000000
+      internalID: 7140134579754591076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_114
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 55
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1097376037bb75490800000000000000
+      internalID: -7757525730418525951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_115
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5793a790e02a2b0800000000000000
+      internalID: -5574877954863172171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_116
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 57
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8326d085bd9fd5ea0800000000000000
+      internalID: -5882270817805573576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_117
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 52
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d3949dd40a77de0800000000000000
+      internalID: -1335422508273681113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_118
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 50
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37739717ee85a580800000000000000
+      internalID: -8816483572323748033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_119
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 35
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66118d9bf451047e0800000000000000
+      internalID: -1783402020274171546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_120
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 55
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a6d741632675670800000000000000
+      internalID: 8527392403860843134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_121
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 56
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0342209a7aa8f6fb0800000000000000
+      internalID: -4652347437350771664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_122
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 50
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4e31fdbd041bf30800000000000000
+      internalID: 4589520808351884459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_123
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 43
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4523bc47e173c6600800000000000000
+      internalID: 462805465660338772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_124
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 46
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd53db96098d4ed0800000000000000
+      internalID: -2428133962605699648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_125
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 48
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf3b357d2c2dd920800000000000000
+      internalID: 3016615899160068023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_126
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf2155205c0881d0800000000000000
+      internalID: -3348412784586969137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_127
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 49
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139d87f39aeda0840800000000000000
+      internalID: 5191206338993641777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_128
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 41
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb2d255a0c70b3e0800000000000000
+      internalID: -2039994247378293789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_129
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 45
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c448ec11e11a3fe0800000000000000
+      internalID: -1208633891445259071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_130
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 44
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbe22619d1d9ab60800000000000000
+      internalID: 7757962563431885818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_131
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 38
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079e18aa5759a3a50800000000000000
+      internalID: 6501673344667085168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_132
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 43
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2b8ecab61f1c770800000000000000
+      internalID: 8629443805783306996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_133
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 36
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1d11794d8b37a30800000000000000
+      internalID: 4211913299728650681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_134
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 40
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573b8fa934993d140800000000000000
+      internalID: 4743303348193112949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_135
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 36
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6eeed6703dd66d0800000000000000
+      internalID: -2995506148268906778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_136
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 33
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c480279e7d4c15a0800000000000000
+      internalID: -6549274552006835006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_137
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 38
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e059fc53fdd75a960800000000000000
+      internalID: 7612629142773667086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_138
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 37
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b1dd0e6b9757920800000000000000
+      internalID: 2987427754193787754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_139
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 38
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723b7a40744052430800000000000000
+      internalID: 3757414167177835303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_140
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 31
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d1e8403e77ca0b0800000000000000
+      internalID: -5716062010122298109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_141
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 4
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebba38f0bc496d3d0800000000000000
+      internalID: -3182192486831117378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_142
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69014de0aa6506b50800000000000000
+      internalID: 6584357943608873110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_143
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 4
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba608f8158eaeb10800000000000000
+      internalID: 2011675620571900599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_144
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b86a2a566fde2280800000000000000
+      internalID: -9066063369157842765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_145
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 32
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea9acc8c0a01b570800000000000000
+      internalID: 8480570622333328108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_146
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 22
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c488647d16c9a4160800000000000000
+      internalID: 7010587713993082956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_147
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 32
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd526cbc3173fef0800000000000000
+      internalID: -75592263062626853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_148
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 32
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e820d32494a91380800000000000000
+      internalID: -8999981424160266013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_149
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 24
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f434ed5446d855b40800000000000000
+      internalID: 5428400387673441103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_150
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 15
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135989a2735e84ea0800000000000000
+      internalID: -5888204487686318799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_151
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 23
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbdd9f21d9916630800000000000000
+      internalID: 3918582274515131359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_152
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 9
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95210d0da51737c0800000000000000
+      internalID: -4091777903451101795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_153
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc08cff64649c6e50800000000000000
+      internalID: 6803976296146436301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_154
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 0
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb1d6c8ecfb25f90800000000000000
+      internalID: -6966294779748607000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_155
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54cfe10d9945fb50800000000000000
+      internalID: 6626283365436736605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_156
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f4a96f50c50a540800000000000000
+      internalID: 5017111165572632424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_157
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 23
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a54e535c9af4e80800000000000000
+      internalID: -8192142532685833634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_158
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75754cbca6f59be90800000000000000
+      internalID: -7009466432735652009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_159
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 18
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269591edc60b948a0800000000000000
+      internalID: -6320326620408620702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_160
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 20
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39cffdfc4065d3f80800000000000000
+      internalID: -8125243574039085933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_161
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cabde0cb519aa2a0800000000000000
+      internalID: -6725403270259557694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_162
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 17
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f3ed3e351fef990800000000000000
+      internalID: -7350172199214498027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_163
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 9
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa673debbd0f37c20800000000000000
+      internalID: 3203168586580588207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_164
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 16
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35c2afa96b7f7550800000000000000
+      internalID: 6160778509114590524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_165
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 11
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0917864d0942adc90800000000000000
+      internalID: -7144357654412365424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_166
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 0
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5d1b54458202ee0800000000000000
+      internalID: -1287985151016315429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_167
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 13
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6841b49e2ab5b2d00800000000000000
+      internalID: 948952901748462726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_168
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 16
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ed09d6132346d60800000000000000
+      internalID: 7882480435678207505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_169
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 0
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0231522557464f0800000000000000
+      internalID: -836414635114290961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_170
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 13
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2501a4acafc3380800000000000000
+      internalID: -8990035009405431079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_171
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 15
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b681a710d0c0c2e30800000000000000
+      internalID: 4479968979325687915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_172
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 7
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3bb9f0f1acee7f70800000000000000
+      internalID: 9187040470159178554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_173
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435ebf2cc67c85aa0800000000000000
+      internalID: -6171964019369581260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_174
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d110bde72a41740800000000000000
+      internalID: 5121897341950958937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_175
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93d45a2e70debdc0800000000000000
+      internalID: -3621227810064641122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_176
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 6
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ada2bde14977c190800000000000000
+      internalID: -7942246093776835165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_177
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 5
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c8351376c723000800000000000000
+      internalID: 14210531486567521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_178
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718542a59c5350410800000000000000
+      internalID: 1442618394559141911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_179
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 7
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef094a8b7f7e5c60800000000000000
+      internalID: 7808818972484767718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_180
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 3
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd85d23b424b24fe0800000000000000
+      internalID: -1206203680463955748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Vigilante_Free_SpriteSheet_181
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 0
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0518f68845a3b7f80800000000000000
+      internalID: -8107822569409773232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NES_Vigilante_Free_SpriteSheet_0: 1247310617373385835
+      NES_Vigilante_Free_SpriteSheet_1: -355277156488957831
+      NES_Vigilante_Free_SpriteSheet_10: 6833577097337938877
+      NES_Vigilante_Free_SpriteSheet_100: -4682172991619980024
+      NES_Vigilante_Free_SpriteSheet_101: -4955619369694658149
+      NES_Vigilante_Free_SpriteSheet_102: 4174651960020100617
+      NES_Vigilante_Free_SpriteSheet_103: -2726409968196905134
+      NES_Vigilante_Free_SpriteSheet_104: 9215924511938981926
+      NES_Vigilante_Free_SpriteSheet_105: -2003025648854768655
+      NES_Vigilante_Free_SpriteSheet_106: 9061311369137689195
+      NES_Vigilante_Free_SpriteSheet_107: 3407705944248867151
+      NES_Vigilante_Free_SpriteSheet_108: -8113032579055190504
+      NES_Vigilante_Free_SpriteSheet_109: -6393776183598909702
+      NES_Vigilante_Free_SpriteSheet_11: 7028651360658700537
+      NES_Vigilante_Free_SpriteSheet_110: -3884453096014779963
+      NES_Vigilante_Free_SpriteSheet_111: -1753836509743552795
+      NES_Vigilante_Free_SpriteSheet_112: 6471708824498584364
+      NES_Vigilante_Free_SpriteSheet_113: 7140134579754591076
+      NES_Vigilante_Free_SpriteSheet_114: -7757525730418525951
+      NES_Vigilante_Free_SpriteSheet_115: -5574877954863172171
+      NES_Vigilante_Free_SpriteSheet_116: -5882270817805573576
+      NES_Vigilante_Free_SpriteSheet_117: -1335422508273681113
+      NES_Vigilante_Free_SpriteSheet_118: -8816483572323748033
+      NES_Vigilante_Free_SpriteSheet_119: -1783402020274171546
+      NES_Vigilante_Free_SpriteSheet_12: 2951793965407601418
+      NES_Vigilante_Free_SpriteSheet_120: 8527392403860843134
+      NES_Vigilante_Free_SpriteSheet_121: -4652347437350771664
+      NES_Vigilante_Free_SpriteSheet_122: 4589520808351884459
+      NES_Vigilante_Free_SpriteSheet_123: 462805465660338772
+      NES_Vigilante_Free_SpriteSheet_124: -2428133962605699648
+      NES_Vigilante_Free_SpriteSheet_125: 3016615899160068023
+      NES_Vigilante_Free_SpriteSheet_126: -3348412784586969137
+      NES_Vigilante_Free_SpriteSheet_127: 5191206338993641777
+      NES_Vigilante_Free_SpriteSheet_128: -2039994247378293789
+      NES_Vigilante_Free_SpriteSheet_129: -1208633891445259071
+      NES_Vigilante_Free_SpriteSheet_13: 8477557608696385464
+      NES_Vigilante_Free_SpriteSheet_130: 7757962563431885818
+      NES_Vigilante_Free_SpriteSheet_131: 6501673344667085168
+      NES_Vigilante_Free_SpriteSheet_132: 8629443805783306996
+      NES_Vigilante_Free_SpriteSheet_133: 4211913299728650681
+      NES_Vigilante_Free_SpriteSheet_134: 4743303348193112949
+      NES_Vigilante_Free_SpriteSheet_135: -2995506148268906778
+      NES_Vigilante_Free_SpriteSheet_136: -6549274552006835006
+      NES_Vigilante_Free_SpriteSheet_137: 7612629142773667086
+      NES_Vigilante_Free_SpriteSheet_138: 2987427754193787754
+      NES_Vigilante_Free_SpriteSheet_139: 3757414167177835303
+      NES_Vigilante_Free_SpriteSheet_14: 5975714428979287477
+      NES_Vigilante_Free_SpriteSheet_140: -5716062010122298109
+      NES_Vigilante_Free_SpriteSheet_141: -3182192486831117378
+      NES_Vigilante_Free_SpriteSheet_142: 6584357943608873110
+      NES_Vigilante_Free_SpriteSheet_143: 2011675620571900599
+      NES_Vigilante_Free_SpriteSheet_144: -9066063369157842765
+      NES_Vigilante_Free_SpriteSheet_145: 8480570622333328108
+      NES_Vigilante_Free_SpriteSheet_146: 7010587713993082956
+      NES_Vigilante_Free_SpriteSheet_147: -75592263062626853
+      NES_Vigilante_Free_SpriteSheet_148: -8999981424160266013
+      NES_Vigilante_Free_SpriteSheet_149: 5428400387673441103
+      NES_Vigilante_Free_SpriteSheet_15: 4902461765881921509
+      NES_Vigilante_Free_SpriteSheet_150: -5888204487686318799
+      NES_Vigilante_Free_SpriteSheet_151: 3918582274515131359
+      NES_Vigilante_Free_SpriteSheet_152: -4091777903451101795
+      NES_Vigilante_Free_SpriteSheet_153: 6803976296146436301
+      NES_Vigilante_Free_SpriteSheet_154: -6966294779748607000
+      NES_Vigilante_Free_SpriteSheet_155: 6626283365436736605
+      NES_Vigilante_Free_SpriteSheet_156: 5017111165572632424
+      NES_Vigilante_Free_SpriteSheet_157: -8192142532685833634
+      NES_Vigilante_Free_SpriteSheet_158: -7009466432735652009
+      NES_Vigilante_Free_SpriteSheet_159: -6320326620408620702
+      NES_Vigilante_Free_SpriteSheet_16: -5003213710212383886
+      NES_Vigilante_Free_SpriteSheet_160: -8125243574039085933
+      NES_Vigilante_Free_SpriteSheet_161: -6725403270259557694
+      NES_Vigilante_Free_SpriteSheet_162: -7350172199214498027
+      NES_Vigilante_Free_SpriteSheet_163: 3203168586580588207
+      NES_Vigilante_Free_SpriteSheet_164: 6160778509114590524
+      NES_Vigilante_Free_SpriteSheet_165: -7144357654412365424
+      NES_Vigilante_Free_SpriteSheet_166: -1287985151016315429
+      NES_Vigilante_Free_SpriteSheet_167: 948952901748462726
+      NES_Vigilante_Free_SpriteSheet_168: 7882480435678207505
+      NES_Vigilante_Free_SpriteSheet_169: -836414635114290961
+      NES_Vigilante_Free_SpriteSheet_17: -261960092905309137
+      NES_Vigilante_Free_SpriteSheet_170: -8990035009405431079
+      NES_Vigilante_Free_SpriteSheet_171: 4479968979325687915
+      NES_Vigilante_Free_SpriteSheet_172: 9187040470159178554
+      NES_Vigilante_Free_SpriteSheet_173: -6171964019369581260
+      NES_Vigilante_Free_SpriteSheet_174: 5121897341950958937
+      NES_Vigilante_Free_SpriteSheet_175: -3621227810064641122
+      NES_Vigilante_Free_SpriteSheet_176: -7942246093776835165
+      NES_Vigilante_Free_SpriteSheet_177: 14210531486567521
+      NES_Vigilante_Free_SpriteSheet_178: 1442618394559141911
+      NES_Vigilante_Free_SpriteSheet_179: 7808818972484767718
+      NES_Vigilante_Free_SpriteSheet_18: 7318335385700695861
+      NES_Vigilante_Free_SpriteSheet_180: -1206203680463955748
+      NES_Vigilante_Free_SpriteSheet_181: -8107822569409773232
+      NES_Vigilante_Free_SpriteSheet_19: 9173036820265914528
+      NES_Vigilante_Free_SpriteSheet_2: -991728026759556800
+      NES_Vigilante_Free_SpriteSheet_20: 43348738992499171
+      NES_Vigilante_Free_SpriteSheet_21: -7030469631224259371
+      NES_Vigilante_Free_SpriteSheet_22: 354846929972121169
+      NES_Vigilante_Free_SpriteSheet_23: 2259204400973277458
+      NES_Vigilante_Free_SpriteSheet_24: 5163439870723598647
+      NES_Vigilante_Free_SpriteSheet_25: 7785717463977847057
+      NES_Vigilante_Free_SpriteSheet_26: 8937015278092798929
+      NES_Vigilante_Free_SpriteSheet_27: 223826544041034721
+      NES_Vigilante_Free_SpriteSheet_28: 5950873366547653007
+      NES_Vigilante_Free_SpriteSheet_29: -7610051942024208320
+      NES_Vigilante_Free_SpriteSheet_3: -7516675695245371652
+      NES_Vigilante_Free_SpriteSheet_30: 1483194972548002638
+      NES_Vigilante_Free_SpriteSheet_31: -6566013808497737379
+      NES_Vigilante_Free_SpriteSheet_32: -6584282657539806677
+      NES_Vigilante_Free_SpriteSheet_33: 3284177584923413648
+      NES_Vigilante_Free_SpriteSheet_34: -5030487743088879566
+      NES_Vigilante_Free_SpriteSheet_35: -6900017200665146257
+      NES_Vigilante_Free_SpriteSheet_36: 8578492838673071073
+      NES_Vigilante_Free_SpriteSheet_37: -90812314646743894
+      NES_Vigilante_Free_SpriteSheet_38: -4685610277351458366
+      NES_Vigilante_Free_SpriteSheet_39: 5885695227681117822
+      NES_Vigilante_Free_SpriteSheet_4: 1998280094268191104
+      NES_Vigilante_Free_SpriteSheet_40: 254207553365202743
+      NES_Vigilante_Free_SpriteSheet_41: 2403271124390420640
+      NES_Vigilante_Free_SpriteSheet_42: 3998789154227446926
+      NES_Vigilante_Free_SpriteSheet_43: -1548912519780124220
+      NES_Vigilante_Free_SpriteSheet_44: 3035115517066187437
+      NES_Vigilante_Free_SpriteSheet_45: -7265023190219196097
+      NES_Vigilante_Free_SpriteSheet_46: -312932869369704188
+      NES_Vigilante_Free_SpriteSheet_47: -2063870103637101889
+      NES_Vigilante_Free_SpriteSheet_48: 1005930347184233194
+      NES_Vigilante_Free_SpriteSheet_49: -3257425020257347952
+      NES_Vigilante_Free_SpriteSheet_5: -7906886679041419080
+      NES_Vigilante_Free_SpriteSheet_50: 4658708866429046044
+      NES_Vigilante_Free_SpriteSheet_51: -4729741787020848114
+      NES_Vigilante_Free_SpriteSheet_52: 1291161304134789248
+      NES_Vigilante_Free_SpriteSheet_53: 3373537056165197627
+      NES_Vigilante_Free_SpriteSheet_54: 353413659797200692
+      NES_Vigilante_Free_SpriteSheet_55: -4275450374505891776
+      NES_Vigilante_Free_SpriteSheet_56: -6319638694462088135
+      NES_Vigilante_Free_SpriteSheet_57: 4092160804708874361
+      NES_Vigilante_Free_SpriteSheet_58: -2726542293794618878
+      NES_Vigilante_Free_SpriteSheet_59: 6477904958937721739
+      NES_Vigilante_Free_SpriteSheet_6: 2867555537768910167
+      NES_Vigilante_Free_SpriteSheet_60: 7205688135871224593
+      NES_Vigilante_Free_SpriteSheet_61: 5667538996480000470
+      NES_Vigilante_Free_SpriteSheet_62: 1842633813327543213
+      NES_Vigilante_Free_SpriteSheet_63: 1165550187276045030
+      NES_Vigilante_Free_SpriteSheet_64: 694000010946770733
+      NES_Vigilante_Free_SpriteSheet_65: 7667235962601596081
+      NES_Vigilante_Free_SpriteSheet_66: -6296354185615324727
+      NES_Vigilante_Free_SpriteSheet_67: 1469542548919917943
+      NES_Vigilante_Free_SpriteSheet_68: 1563868287683327089
+      NES_Vigilante_Free_SpriteSheet_69: 6083047172454598387
+      NES_Vigilante_Free_SpriteSheet_7: -3554386710124891668
+      NES_Vigilante_Free_SpriteSheet_70: -8601226537590560369
+      NES_Vigilante_Free_SpriteSheet_71: 2447910794850381044
+      NES_Vigilante_Free_SpriteSheet_72: -6478929459207548193
+      NES_Vigilante_Free_SpriteSheet_73: -8488101811338082756
+      NES_Vigilante_Free_SpriteSheet_74: -1878896233044325112
+      NES_Vigilante_Free_SpriteSheet_75: 1517425917560790938
+      NES_Vigilante_Free_SpriteSheet_76: -7429324488626733077
+      NES_Vigilante_Free_SpriteSheet_77: 254577785215315264
+      NES_Vigilante_Free_SpriteSheet_78: -3308592460987061012
+      NES_Vigilante_Free_SpriteSheet_79: -8211325676212976828
+      NES_Vigilante_Free_SpriteSheet_8: 537066562136624544
+      NES_Vigilante_Free_SpriteSheet_80: 9085648053071168456
+      NES_Vigilante_Free_SpriteSheet_81: -5102451030282064956
+      NES_Vigilante_Free_SpriteSheet_82: 2586344569767589580
+      NES_Vigilante_Free_SpriteSheet_83: 331051927914705421
+      NES_Vigilante_Free_SpriteSheet_84: 5255800250732589464
+      NES_Vigilante_Free_SpriteSheet_85: -4624602615740846758
+      NES_Vigilante_Free_SpriteSheet_86: 2797571066703795602
+      NES_Vigilante_Free_SpriteSheet_87: -6084428581653703002
+      NES_Vigilante_Free_SpriteSheet_88: 3903375709537849982
+      NES_Vigilante_Free_SpriteSheet_89: 1781361393906369844
+      NES_Vigilante_Free_SpriteSheet_9: 7117238228790716192
+      NES_Vigilante_Free_SpriteSheet_90: 804511555281197141
+      NES_Vigilante_Free_SpriteSheet_91: 1855741236764641015
+      NES_Vigilante_Free_SpriteSheet_92: -7488718189800813463
+      NES_Vigilante_Free_SpriteSheet_93: -8412617593436102888
+      NES_Vigilante_Free_SpriteSheet_94: -3781123987274302651
+      NES_Vigilante_Free_SpriteSheet_95: 242846524905352344
+      NES_Vigilante_Free_SpriteSheet_96: 5307581003038270307
+      NES_Vigilante_Free_SpriteSheet_97: -4191544965094436017
+      NES_Vigilante_Free_SpriteSheet_98: -3144107446448658120
+      NES_Vigilante_Free_SpriteSheet_99: -5043291230556367559
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
