@@ -8,10 +8,20 @@ public class Enemy : MonoBehaviour
 
     public int currentHealth;
     public Animator anim;
+    private Camera mainCamera;
 
     void Start()
     {
         currentHealth = startingHealth;
+        mainCamera = Camera.main;
+    }
+
+    void Update()
+    {
+        if (mainCamera != null)
+        {
+            transform.LookAt(transform.position + mainCamera.transform.rotation * Vector3.forward, mainCamera.transform.rotation * Vector3.up); // makes the enemy sprite lok at camera
+        }
     }
 
     public void TakeDamage(int _damage)
