@@ -1,27 +1,20 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class Enemy : MonoBehaviour
 {
     [SerializeField] private int startingHealth;
+    [SerializeField] private Spawner spawner;
 
     public int currentHealth;
     public Animator anim;
-    private Camera mainCamera;
 
     void Start()
     {
+        spawner = GameObject.FindAnyObjectByType<Spawner>();
         currentHealth = startingHealth;
-        mainCamera = Camera.main;
-    }
-
-    void Update()
-    {
-        if (mainCamera != null)
-        {
-            transform.LookAt(transform.position + mainCamera.transform.rotation * Vector3.forward, mainCamera.transform.rotation * Vector3.up); // makes the enemy sprite lok at camera
-        }
     }
 
     public void TakeDamage(int _damage)
@@ -38,6 +31,7 @@ public class Enemy : MonoBehaviour
         {
             //die animation
             Debug.Log("Enemy Dead!");
+            spawner.NewEnemy();
             Destroy(gameObject);
         }
 

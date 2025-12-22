@@ -16,15 +16,15 @@ public class Chaser : MonoBehaviour
 
     void Start()
     {
+        target = GameObject.FindAnyObjectByType<Movement>().transform;
+        //if (target == null)
+        //{
 
-        if (target == null)
-        {
-
-            if (GameObject.FindWithTag("Player") != null)
-            {
-                target = GameObject.FindWithTag("Player").GetComponent<Transform>();
-            }
-        }
+        //    if (GameObject.FindWithTag("Player") != null)
+        //    {
+        //        target = GameObject.FindWithTag("Player").GetComponent<Transform>();
+        //    }
+        //}
     }
 
 
