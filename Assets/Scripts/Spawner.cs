@@ -13,6 +13,8 @@ public class Spawner : MonoBehaviour
     IEnumerator SpawnNow()
     {
         yield return new WaitForSeconds(2f);
-        Instantiate(Enemy, spawnPoint.position, Quaternion.identity);
+        GameObject enemyObject = Instantiate(Enemy, spawnPoint.position, Quaternion.identity);
+        Enemy enemyScript = enemyObject.GetComponent<Enemy>();
+        enemyScript.SetSpawner(this);
     }
 }

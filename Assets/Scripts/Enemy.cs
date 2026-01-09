@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using Unity.VisualScripting;
@@ -13,7 +14,6 @@ public class Enemy : MonoBehaviour
 
     void Start()
     {
-        spawner = GameObject.FindAnyObjectByType<Spawner>();
         currentHealth = startingHealth;
     }
 
@@ -36,5 +36,10 @@ public class Enemy : MonoBehaviour
         }
 
 
+    }
+
+    internal void SetSpawner(Spawner spawner)
+    {
+        this.spawner = spawner;
     }
 }

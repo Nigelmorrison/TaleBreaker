@@ -34,14 +34,12 @@ public class Chaser : MonoBehaviour
             return;
 
 
-        transform.LookAt(target);
+        //transform.LookAt(target);
 
-
-        float distance = Vector3.Distance(transform.position, target.position);
-
-
+        Vector3 vector = target.position - transform.position;
+        float distance = vector.magnitude;
         if (distance < minDist)
-            transform.position += transform.forward * speed * Time.deltaTime;
+            transform.position += vector.normalized * speed * Time.deltaTime;
     }
 
 
