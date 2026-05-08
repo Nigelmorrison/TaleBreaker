@@ -34,7 +34,11 @@ public class InputHandler : MonoBehaviour
 
         if (Input.GetButtonDown("Fire1"))
         {
-            attack.Attack(attackPoint);            
+            attack.LightAttack(attackPoint);            
+        }
+        if (Input.GetButtonDown("Fire2"))
+        {
+            attack.HeavyAttack(attackPoint);            
         }
 
         if (Input.GetButtonDown("Jump"))

@@ -5,7 +5,8 @@ using UnityEngine;
 public class PlayerAttack : MonoBehaviour
 {
     //[SerializeField] private float attackCooldown;
-    [SerializeField] private int damage;
+    [SerializeField] private int lightDamage;
+    [SerializeField] private int heavyDamage;
 
     [SerializeField] private LayerMask enemyLayer;
 
@@ -16,6 +17,8 @@ public class PlayerAttack : MonoBehaviour
 
     private Animator anim;
     private Enemy enemyHealth;
+
+    private int attackDamage;
 
 
 
@@ -30,12 +33,20 @@ public class PlayerAttack : MonoBehaviour
     {
     }
 
-    public void Attack(Vector3 attackPosition)
+    public void LightAttack(Vector3 attackPosition)
     {
+        AttackPoint.enabled = false;
         AttackPoint.transform.localPosition = attackPosition;
-        anim.SetTrigger("Punch");
-        Attack();
-        Debug.Log("attacking");
+        anim.SetTrigger("LightPunch");
+        Attack(lightDamage);
+    }
+
+    public void HeavyAttack(Vector3 attackPosition)
+    {
+        AttackPoint.enabled = false;
+        AttackPoint.transform.localPosition = attackPosition;
+        anim.SetTrigger("HeavyPunch");
+        Attack(heavyDamage);
     }
 
     private void OnDrawGizmos()
@@ -50,8 +61,9 @@ public class PlayerAttack : MonoBehaviour
 
 
 
-    void Attack()
+    void Attack(int damage)
     {
+        attackDamage = damage;
         AttackPoint.enabled = true;
     }
 
@@ -65,8 +77,8 @@ public class PlayerAttack : MonoBehaviour
         Enemy enemy = other.GetComponent<Enemy>();
         if (enemy)
         {
-            Debug.Log($"Send TakeDamage {damage}");
-            enemy.TakeDamage(damage);
+            Debug.Log($"Send TakeDamage {attackDamage}");
+            enemy.TakeDamage(attackDamage);
         }
     }
 }

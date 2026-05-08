@@ -12,6 +12,9 @@ public class Chaser : MonoBehaviour
     public Rigidbody rb;
     public float Within_range;
 
+    public float lightKnockback = 0.2f;
+    public float heavyKnockback = 0.5f;
+
     float knockBackTime;
 
     void Start()
@@ -49,7 +52,7 @@ public class Chaser : MonoBehaviour
 
     public void KnockBack(int damage)
     {
-        knockBackTime = damage > 15? 0.5f : 0.2f;
+        knockBackTime = damage > 15? heavyKnockback : lightKnockback;
     }
 
 
