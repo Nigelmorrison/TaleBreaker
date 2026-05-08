@@ -154,8 +154,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   startingHealth: 100
+  spawner: {fileID: 0}
   currentHealth: 100
   anim: {fileID: 0}
+  chaser: {fileID: 1129972398304702971}
 --- !u!114 &1129972398304702971
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -171,4 +173,5 @@ MonoBehaviour:
   speed: 3
   minDist: 10
   target: {fileID: 0}
+  rb: {fileID: 8576121520965104988}
   Within_range: 10

@@ -12,6 +12,8 @@ public class Enemy : MonoBehaviour
     public int currentHealth;
     public Animator anim;
 
+    public Chaser chaser;
+
     void Start()
     {
         currentHealth = startingHealth;
@@ -19,6 +21,7 @@ public class Enemy : MonoBehaviour
 
     public void TakeDamage(int _damage)
     {
+        chaser.KnockBack(_damage);
         currentHealth = Mathf.Clamp(currentHealth - _damage, 0, startingHealth);
 
         if (currentHealth > 0)

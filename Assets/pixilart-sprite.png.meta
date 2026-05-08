@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: ebf8d51514c89784aa6208a21bad5e1b
+guid: b69334e9d6113469288e86bbe6cb1514
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5047039164633866195
-    second: Backgroundbeatemup_0
+      213: 4689240166119133576
+    second: pixilart-sprite_0
+  - first:
+      213: 4521018998857404175
+    second: pixilart-sprite_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +40,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -51,7 +54,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 600
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -100,13 +103,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Backgroundbeatemup_0
+      name: pixilart-sprite_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1718
-        height: 770
+        x: 21
+        y: 16
+        width: 29
+        height: 41
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +118,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3df5c7f316faa0640800000000000000
-      internalID: 5047039164633866195
+      spriteID: 88156002617831140800000000000000
+      internalID: 4689240166119133576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixilart-sprite_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 16
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f00b973d2edbe30800000000000000
+      internalID: 4521018998857404175
       vertices: []
       indices: 
       edges: []
@@ -135,7 +160,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Backgroundbeatemup_0: 5047039164633866195
+      pixilart-sprite_0: 4689240166119133576
+      pixilart-sprite_1: 4521018998857404175
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -28,12 +28,14 @@ public class PlayerAttack : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetButtonDown("Fire1"))
-        {
-            anim.SetTrigger("Punch");
-            Attack();
-            Debug.Log("attacking");
-        }
+    }
+
+    public void Attack(Vector3 attackPosition)
+    {
+        AttackPoint.transform.localPosition = attackPosition;
+        anim.SetTrigger("Punch");
+        Attack();
+        Debug.Log("attacking");
     }
 
     private void OnDrawGizmos()

@@ -7,12 +7,20 @@ public class Movement : MonoBehaviour
     public float jumpVelocity = 5;
     Rigidbody rb;
     Animator anim;
+    //private Animator _animator;
+    SpriteRenderer sprite;
     bool onGround;
 
     private void Start()
     {
         rb = GetComponent<Rigidbody>();
         anim = GetComponent<Animator>();
+        sprite = GetComponent<SpriteRenderer>();
+    }
+
+    public void Flip(bool flip)
+    {
+        sprite.flipX = flip;
     }
 
     public void TickMovement(Vector3 direction)
@@ -21,6 +29,16 @@ public class Movement : MonoBehaviour
         velocity.x = direction.x * speed;
         velocity.z = direction.z * speed;
         rb.linearVelocity = velocity;
+        if (direction.magnitude > 0.01)
+        {
+             anim.SetBool("isRunning", true);
+            
+        }
+        else
+        {
+            anim.SetBool("isRunning", false);
+            
+        }
     }
 
     internal void Jump()
