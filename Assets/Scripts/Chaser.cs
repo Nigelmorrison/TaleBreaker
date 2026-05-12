@@ -1,5 +1,6 @@
 using UnityEngine;
 using System.Collections;
+using Unity.VisualScripting;
 
 
 
@@ -16,9 +17,11 @@ public class Chaser : MonoBehaviour
     public float heavyKnockback = 0.5f;
 
     float knockBackTime;
+    Animator anim;
 
     void Start()
     {
+        anim=GetComponent<Animator>();
         target = GameObject.FindAnyObjectByType<Movement>().transform;
         //if (target == null)
         //{
@@ -73,4 +76,20 @@ public class Chaser : MonoBehaviour
 
     }
 
+    void OnCollisionEnter(Collision other)
+    {
+        if (other.gameObject.CompareTag("Player"))
+        {
+            anim.SetTrigger("Attack");
+            other.gameObject.GetComponent<Movement>().OnAttacked();
+        }
+    }
+void OnCollisionExit(Collision other)
+    {
+        if (other.gameObject.CompareTag("Player"))
+        {
+            anim.SetTrigger("Walk");
+             other.gameObject.GetComponent<Movement>().OnIdle();
+        }
+    }
 }

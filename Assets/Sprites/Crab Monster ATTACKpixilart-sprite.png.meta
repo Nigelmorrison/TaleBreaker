@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: b4c22fdca098e4215bc3303aa70d2232
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9188224633425528349
+    second: Crab Monster ATTACKpixilart-sprite_0
+  - first:
+      213: -6120734097364439086
+    second: Crab Monster ATTACKpixilart-sprite_1
+  - first:
+      213: -8056146622857006015
+    second: Crab Monster ATTACKpixilart-sprite_2
+  - first:
+      213: 5300415257253198463
+    second: Crab Monster ATTACKpixilart-sprite_3
+  - first:
+      213: 5401057670682230634
+    second: Crab Monster ATTACKpixilart-sprite_4
+  - first:
+      213: -7991287169938840939
+    second: Crab Monster ATTACKpixilart-sprite_5
+  - first:
+      213: 2469688235637190661
+    second: Crab Monster ATTACKpixilart-sprite_6
+  - first:
+      213: -8353122495762579457
+    second: Crab Monster ATTACKpixilart-sprite_7
+  - first:
+      213: 1044992149793696402
+    second: Crab Monster ATTACKpixilart-sprite_8
+  - first:
+      213: 2806544317234264629
+    second: Crab Monster ATTACKpixilart-sprite_9
+  - first:
+      213: 1442784376081487551
+    second: Crab Monster ATTACKpixilart-sprite_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crab Monster ATTACKpixilart-sprite_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 16
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1682df6f91238f70800000000000000
+      internalID: 9188224633425528349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab Monster ATTACKpixilart-sprite_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 16
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfa8f974c8ce0ba0800000000000000
+      internalID: -6120734097364439086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab Monster ATTACKpixilart-sprite_2
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 16
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144352e6451d23090800000000000000
+      internalID: -8056146622857006015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab Monster ATTACKpixilart-sprite_3
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 16
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a33aaf79bde8940800000000000000
+      internalID: 5300415257253198463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab Monster ATTACKpixilart-sprite_4
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 16
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fb960e55964fa40800000000000000
+      internalID: 5401057670682230634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab Monster ATTACKpixilart-sprite_5
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 16
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592a8a998ae391190800000000000000
+      internalID: -7991287169938840939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab Monster ATTACKpixilart-sprite_6
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 16
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500bd178d58164220800000000000000
+      internalID: 2469688235637190661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab Monster ATTACKpixilart-sprite_7
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 16
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff3fbac85fb31c80800000000000000
+      internalID: -8353122495762579457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab Monster ATTACKpixilart-sprite_8
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 16
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a6689d2de808e00800000000000000
+      internalID: 1044992149793696402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab Monster ATTACKpixilart-sprite_9
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 16
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ab323df29d2f620800000000000000
+      internalID: 2806544317234264629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab Monster ATTACKpixilart-sprite_10
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 16
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb612dfeebcc50410800000000000000
+      internalID: 1442784376081487551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Crab Monster ATTACKpixilart-sprite_0: 9188224633425528349
+      Crab Monster ATTACKpixilart-sprite_1: -6120734097364439086
+      Crab Monster ATTACKpixilart-sprite_10: 1442784376081487551
+      Crab Monster ATTACKpixilart-sprite_2: -8056146622857006015
+      Crab Monster ATTACKpixilart-sprite_3: 5300415257253198463
+      Crab Monster ATTACKpixilart-sprite_4: 5401057670682230634
+      Crab Monster ATTACKpixilart-sprite_5: -7991287169938840939
+      Crab Monster ATTACKpixilart-sprite_6: 2469688235637190661
+      Crab Monster ATTACKpixilart-sprite_7: -8353122495762579457
+      Crab Monster ATTACKpixilart-sprite_8: 1044992149793696402
+      Crab Monster ATTACKpixilart-sprite_9: 2806544317234264629
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

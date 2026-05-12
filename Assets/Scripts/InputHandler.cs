@@ -8,7 +8,6 @@ public class InputHandler : MonoBehaviour
     Vector3 attackPoint;
 
 
-
     private void Start()
     {
         player = GetComponent<Movement>();

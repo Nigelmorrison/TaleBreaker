@@ -9,6 +9,7 @@ public class Movement : MonoBehaviour
     Animator anim;
     //private Animator _animator;
     SpriteRenderer sprite;
+    public ParticleSystem dustTrail;
     bool onGround;
 
     private void Start()
@@ -32,7 +33,7 @@ public class Movement : MonoBehaviour
         if (direction.magnitude > 0.01)
         {
              anim.SetBool("isRunning", true);
-            
+            CreateDustTrail();
         }
         else
         {
@@ -64,5 +65,20 @@ public class Movement : MonoBehaviour
         {
             onGround = false;
         }
+    }
+
+    private void CreateDustTrail()
+    {
+        dustTrail.Play();
+    }
+
+    public void OnAttacked()
+    {
+        anim.SetTrigger("Damage");
+    }
+
+    public void OnIdle()
+    {
+        anim.SetTrigger("Idle");
     }
 }
