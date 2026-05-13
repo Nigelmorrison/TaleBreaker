@@ -34,6 +34,7 @@ public class Enemy : MonoBehaviour
         {
             //die animation
             Debug.Log("Enemy Dead!");
+            spawner.UpdateScore();
             spawner.NewEnemy();
             Destroy(gameObject);
         }
