@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerHealth : MonoBehaviour
 {
@@ -11,6 +12,7 @@ public void ReduceHealth()
         {
             print("Dead");
             Destroy(gameObject);
+            SceneManager.LoadScene("Game Over");
         }
     }
 }

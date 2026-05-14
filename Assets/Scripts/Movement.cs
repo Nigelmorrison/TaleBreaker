@@ -1,4 +1,5 @@
 using System;
+using NUnit.Framework.Constraints;
 using UnityEngine;
 
 public class Movement : MonoBehaviour
@@ -11,6 +12,20 @@ public class Movement : MonoBehaviour
     SpriteRenderer sprite;
     public ParticleSystem dustTrail;
     bool onGround;
+
+private bool isGrounded = true;
+
+    private AudioSource audioSource;
+    public AudioClip steps;
+
+    public void walking()
+    {
+        if (isGrounded)
+        {
+            audioSource.clip = steps;
+            audioSource.Play();
+        }
+    }
 
     private void Start()
     {
@@ -38,8 +53,10 @@ public class Movement : MonoBehaviour
         else
         {
             anim.SetBool("isRunning", false);
-            
         }
+
+
+        audioSource = GetComponent<AudioSource>();
     }
 
     internal void Jump()
